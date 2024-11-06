@@ -16,6 +16,7 @@ public class AddTaskActivity extends AppCompatActivity {
     private Button saveTaskButton;
     private Switch photoRequiredSwitch;
 
+    //
     @Override
     //Finds the value for the different texts and the button
     protected void onCreate(Bundle savedInstanceState) {
