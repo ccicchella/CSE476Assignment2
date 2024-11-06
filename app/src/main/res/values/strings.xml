@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CSE476Assignment2</string>
+    <string name="welcome_message">Welcome to Our App</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="photo_required">Photo Required</string>
+    <string name="history">History</string>
+</resources>
